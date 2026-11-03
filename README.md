@@ -10,7 +10,7 @@ I designed and engineered an AI-driven delta robot platform from scratch for hig
 *   **Edge Machine Vision:** Deployed **YOLO** on a **Raspberry Pi 4** with **NCNN inference optimization** for real-time localization.
 *   **Kinematics & Actuation:** Formulated inverse kinematics for a high-precision delta mechanism to actuate root-level weed extraction.
 *   **System Telemetry:** Integrated multi-protocol data streams to visualize coordination, latency, and hardware health profiles.
-*   **🎥 Watch the Hardware in Action:** [👉🏼 Apologies (Yet to add) 👈🏼]()
+*   **🎥 Watch the Hardware in Action:** [👉🏼 YouTube Link 👈🏼](https://youtu.be/XIZocX2AfoA?si=yXxuznwPBn2li2ao)
 
 ---
 
