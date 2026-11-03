@@ -1,6 +1,6 @@
 # Hi, I'm Mohamad Anass Al Kabbani 👋
 
-I am a **Mechatronics Engineering Honours Graduate** (CGPA 3.89) passionate about building robust, closed-loop industrial automation and Edge AI systems. I specialize in bridging the gap between rugged field hardware (PLCs, Actuators) and modern software stacks (FastAPI, React, Edge Vision).
+I am a **Mechatronics Engineering Honours Graduate** (CGPA 3.88) passionate about building robust, closed-loop industrial automation and Edge AI systems. I specialize in bridging the gap between rugged field hardware (PLCs, Actuators) and modern software stacks (FastAPI, React, Edge Vision).
 
 ---
 
